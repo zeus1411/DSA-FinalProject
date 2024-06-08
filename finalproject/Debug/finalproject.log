@@ -1,0 +1,8 @@
+﻿  finalproject.cpp
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(68,31): warning C4018: '<': signed/unsigned mismatch
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(84,31): warning C4018: '<': signed/unsigned mismatch
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(160,31): warning C4018: '<': signed/unsigned mismatch
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(278,31): warning C4018: '<': signed/unsigned mismatch
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(294,31): warning C4018: '<': signed/unsigned mismatch
+D:\hk1 ( data structure )\finalproject\finalproject\finalproject.cpp(371,31): warning C4018: '<': signed/unsigned mismatch
+  finalproject.vcxproj -> D:\hk1 ( data structure )\finalproject\Debug\finalproject.exe
